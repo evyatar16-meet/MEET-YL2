@@ -18,18 +18,21 @@
 	    text-align: center;
 	    margin: auto;
 	    background: blue;
+	    text-indent: 30px;
 	}
 
 	#div2 {
-		    text-align: center;
-		    margin: auto;
-		    background: blue;
-		}
+	    text-align: center;
+	    margin: auto;
+	    background: blue;
+	    font-size: 30px;
+	}
 
 	#div3 {
-		    text-align: center;
-		    margin: auto;
-		    background: blue;
-		}
+	    text-align: center;
+	    margin: auto;
+	    background: blue;
+	    text-indent: 30px;
+	}
 
 
