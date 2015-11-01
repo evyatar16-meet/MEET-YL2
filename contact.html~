@@ -1,0 +1,47 @@
+<html>
+	<head>
+		
+		<link rel="stylesheet" type="text/css" href="design.css">
+	
+
+		<title>Contact me</title>
+
+	<div id="div3">
+
+		<a style = "color:white;" href ="contact.html">Contact me</a>
+
+		<a style = "color:white;" href ="Home page.html">Home page</a> 
+
+		<a style = "color:white;" href ="about.html">About me</a>
+
+	</div>
+
+	</head>
+
+	<body background="http://eclim.org/_images/completion2.png">
+
+	<form>
+		<p>Insert email</p>
+		<input name = "email" type="text"></input>
+		<p>Write me something...</p>
+		<input name = "message" type="text"></input>
+		<input type="submit" value="Submit"></input>
+
+	</form>
+
+	</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
